@@ -1,0 +1,19 @@
+# Fjarholm
+
+Official portfolio of Fjarholm.
+
+Fjarholm explores architecture, vector illustration and pastel art through a visual language inspired by Nordic nature, simplicity and balance.
+
+## Main Pages
+
+* Home: https://fjarholm.com/
+* Gallery: https://fjarholm.com/gallery.html
+* Info: https://fjarholm.com/info.html
+
+## Content
+
+The website contains original artworks, architectural concepts, vector illustrations and pastel artworks created and curated by Fjarholm.
+
+## Contact
+
+Email: [info@fjarholm.com](mailto:info@fjarholm.com)

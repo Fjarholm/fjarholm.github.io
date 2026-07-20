@@ -1,20 +1,31 @@
 # fjarholm.com — Web Repository
 
-> The official digital portal for Fjarholm Art.
+> The official website of Fjarholm.
 
-This repository contains the source code and core assets for the official website: **[fjarholm.com](https://fjarholm.com)**.
-
-## Architecture & Purpose
-In alignment with the core philosophy of Fjarholm Art—minimalism, raw elegance, and functionality—this website is built to be fast, lightweight, and permanent.
-
-* ⚡ Hosted securely on the **GitHub Pages** platform.
-* 🛡️ Optimized and protected by **Cloudflare**.
-* 🍃 Built with clean and lightweight code to ensure minimal digital footprint and maximum speed.
+This repository contains the source code, assets, and structure powering **https://fjarholm.com**.
 
 ---
 
-## Related Repositories
-* 🎨 **[fjarholm-art](https://github.com/fjarholm-art/fjarholm-art)** — Technical gallery, SVG concepts, and art philosophy documentation.
+## Purpose
+
+The website serves as the central digital destination for Fjarholm, presenting information, gallery access, and connections to the wider Fjarholm ecosystem.
+
+Designed around simplicity, performance, and longevity, the project follows the same principles found throughout the artwork itself.
+
+- ⚡ Built with lightweight HTML and CSS.
+- 🛡️ Protected and accelerated by Cloudflare.
+- 🌿 Optimized for accessibility, SEO, and long-term maintainability.
 
 ---
-*Based in Northern Europe. Influenced by the North. Created for the modern soul.*
+
+## Related Projects
+
+🎨 **Art Repository**  
+https://github.com/fjarholm-art/fjarholm-art
+
+🖼 **Portfolio**  
+https://github.com/fjarholm/Portfolio
+
+---
+
+*Based in Northern Europe. Inspired by Nordic nature. Created through digital craftsmanship.*

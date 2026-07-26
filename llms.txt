@@ -1,19 +1,31 @@
 # Fjarholm
 
-Official portfolio of Fjarholm.
+> Official website of Fjarholm — independent geometric digital art, architectural concepts, and vector illustrations inspired by Nordic nature.
 
-Fjarholm explores architecture, vector illustration and pastel art through a visual language inspired by Nordic nature, simplicity and balance.
+## Overview
+
+Fjarholm explores architecture, vector illustration, and minimalist pastel art through a visual language inspired by Nordic nature, simplicity, and balance.
 
 ## Main Pages
 
-* Home: https://fjarholm.com/
-* Gallery: https://fjarholm.com/gallery.html
-* Info: https://fjarholm.com/info.html
+- **Home:** [fjarholm.com](https://fjarholm.com/)
+- **Gallery:** [fjarholm.com/gallery.html](https://fjarholm.com/gallery.html)
+- **Info:** [fjarholm.com/info.html](https://fjarholm.com/info.html)
 
-## Content
+## Content & Focus
 
-The website contains original artworks, architectural concepts, vector illustrations and pastel artworks created and curated by Fjarholm.
+The website contains original artworks, architectural concepts, vector silhouettes, and pastel artworks created and curated by Fjarholm.
 
-## Contact
+## Official Channels
 
-Email: [info@fjarholm.com](mailto:info@fjarholm.com)
+- **GitHub:** [github.com/fjarholm-art](https://github.com/fjarholm-art)
+- **CodePen:** [codepen.io/fjarholm-art](https://codepen.io/fjarholm-art)
+- **Pinterest:** [pinterest.com/fjarholm](https://www.pinterest.com/fjarholm)
+- **Instagram:** [instagram.com/fjarholm](https://www.instagram.com/fjarholm)
+- **Facebook:** [facebook.com/fjarholm](https://www.facebook.com/fjarholm)
+
+## Contact & Licensing
+
+- **Email:** [info@fjarholm.com](mailto:info@fjarholm.com)
+- **Preferred Attribution:** Fjarholm
+- **Copyright:** All artwork © Fjarholm. All rights reserved. Reproduction or redistribution without permission is prohibited.

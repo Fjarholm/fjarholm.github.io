@@ -307,3 +307,27 @@ footer {
         text-align: center;
     }
 }
+/* CTA Nupu stiil info.html lehel */
+.header-cta-wrap {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.btn-cta {
+    display: inline-block;
+    color: #cccccc;
+    background-color: #141414;
+    border: 1px solid #2a2a2a;
+    padding: 8px 20px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: all 0.25s ease;
+}
+
+.btn-cta:hover {
+    color: #ffffff;
+    border-color: #555555;
+    background-color: #1e1e1e;
+}

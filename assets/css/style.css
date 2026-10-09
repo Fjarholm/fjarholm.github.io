@@ -308,5 +308,24 @@ footer {
     }
 }
 /* CTA Nupu stiil info.html lehel hakkas olemasoleva peale tööle*/
+/* CTA Nupu stiil, kui HTML-is on class="cta" */
+.cta {
+    display: inline-block;
+    color: #ffffff;            /* Vaikimisi valge tekst */
+    background-color: #000000; /* Must taust */
+    border: 1px solid #ffffff; /* Valge raam */
+    padding: 10px 24px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-radius: 0px;
+    transition: all 0.25s ease;
+}
+
+.cta:hover {
+    color: #000000 !important;            /* Hoveril tekst MUSTAKS */
+    background-color: #ffffff !important; /* Hoveril taust VALGEKS */
+    border-color: #ffffff !important;
+}
 
 

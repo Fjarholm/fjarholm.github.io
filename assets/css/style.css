@@ -308,4 +308,28 @@ footer {
     }
 }
 /* CTA Nupu stiil info.html lehel hakkas olemasoleva peale tööle*/
+/* CTA Nupu stiil - valge taust ja must tekst hoveril */
+.header-cta-wrap {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.btn-cta {
+    display: inline-block;
+    color: #ffffff;            /* Valge tekst */
+    background-color: #000000; /* Must taust */
+    border: 1px solid #ffffff; /* Valge raam */
+    padding: 10px 24px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-radius: 0px;        /* Teravad nurgad */
+    transition: all 0.25s ease;
+}
+
+.btn-cta:hover {
+    color: #000000;            /* Tekst muutub mustaks! */
+    background-color: #ffffff; /* Taust muutub valgeks */
+    border-color: #ffffff;     /* Raam jääb valgeks */
+}
 

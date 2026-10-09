@@ -308,7 +308,7 @@ footer {
     }
 }
 /* CTA Nupu stiil info.html lehel hakkas olemasoleva peale tööle*/
-/* Nupu stiil kõigil lehtedel (info.html jne) */
+/* CTA Nupu stiil info.html lehel */
 .header-cta-wrap {
     text-align: center;
     margin: 2rem 0;
@@ -316,20 +316,20 @@ footer {
 
 .btn-cta {
     display: inline-block;
-    color: #ffffff;            /* Vaikimisi valge tekst */
-    background-color: #000000; /* Must taust */
-    border: 1px solid #ffffff; /* Valge raam */
-    padding: 10px 24px;
-    font-size: 14px;
+    color: #cccccc;
+    background-color: #141414;
+    border: 1px solid #2a2a2a;
+    padding: 8px 20px;
+    font-size: 13px;
     letter-spacing: 1px;
     text-decoration: none;
-    border-radius: 0px;
+    border-radius: 4px;
     transition: all 0.25s ease;
 }
 
 .btn-cta:hover {
-    color: #000000 !important;            /* Peale liikudes tekst MUSTAKS */
-    background-color: #ffffff !important; /* Taust VALGEKS */
-    border-color: #ffffff !important;
+    color: #ffffff;            /* <-- Siin oli viga! */
+    border-color: #555555;
+    background-color: #1e1e1e;
 }
 
